@@ -1,7 +1,7 @@
 # Hey, I'm nanoknyt-stack 👋
 
 > Mobile & web developer focused on clean architecture, smart integrations, and pixel-perfect UI.  
-> Available for freelance — website fixes, layouts, and frontend work.
+> website fixes, layouts, and frontend work.
 
 ---
 
@@ -35,27 +35,6 @@
 - **What it does:** Tracks daily habits, analyzes patterns with AI, and gives personalized recommendations to help you stay consistent
 - **Stack:** `Flutter` · `Dart` · `FastAPI` · `Python`
 - **Status:** 🟢 Active development — MVP coming soon
-
----
-
-## 💼 Freelance Services
-
-Looking to hire? Here's what I can help with:
-
-| Service | Details |
-|---|---|
-| 🖥️ Website layout | Pixel-perfect HTML/CSS from design files (Figma, PSD, etc.) |
-| 🐛 Bug fixing | Frontend issues, layout bugs, responsiveness problems |
-| 📱 Responsive design | Mobile-first layouts that work on any screen |
-| ⚡ Performance fixes | Loading speed, render issues, code cleanup |
-
-📬 **Open for work** — feel free to reach out!
-
----
-
-## 📊 GitHub Stats
-
-![nanoknyt-stack's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanoknyt-stack&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
