@@ -1,23 +1,42 @@
-<div align="center">Hi there</div>
+# Привет, я nanoknyt-stack 👋
 
-<!--
-**nanoknyt-stack/nanoknyt-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Здесь можно написать свое главное правило в работе или короткое кредо. Например: "Создаю производительные кроссплатформенные продукты с акцентом на чистую архитектуру и детальный UI/UX."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- [Static Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter%2C%20css%2C%20TypeScript%2C%20python%2C%20C%2B%2B)
+### 🛠️ Мой технологический стек
 
--->
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+---
 
+## 🚀 Обо мне
+
+* 🎯 **Фокус разработки:** Проектирование архитектуры мобильных приложений, создание быстрых API и интеграция интеллектуальных сервисов.
+* 📐 **Подход к коду:** Придерживаюсь принципов разделения ответственности (Layered Architecture), предсказуемого управления состоянием и чистоты репозитория.
+* 🧠 **Текущий вектор развития:** Углубляюсь в низкоуровневую логику на C++ и оптимизацию алгоритмов.
+
+---
+
+## 🏆 Избранные проекты
+
+### ⚡ [Название главного проекта, например: Protocol]
+* **Описание:** Краткое, сильное описание сути продукта в одно-два предложения (зачем он нужен и какую задачу решает).
+* **Стек технологий:** `Flutter`, `Riverpod`, `FastAPI`
+* **Статус:** 🟢 В активной разработке / Публикация MVP
+
+---
+
+## 📊 Статистика активности
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nanoknyt-stack&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanoknyt-stack&layout=compact&theme=dark" alt="Top Languages" width="44%" />
+</p>
+
+---
+
+📬 **Связь со мной:** [Telegram](https://t.me/твой_ник) | [Email](mailto:твой_email@example.com)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
