@@ -26,12 +26,3 @@
 * **Статус:** 🟢 В активной разработке / Публикация MVP
 
 ---
-
-## 📊 Статистика активности
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanoknyt-stack&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanoknyt-stack&layout=compact&theme=dark" alt="Top Languages" width="44%" />
-</p>
-
----
