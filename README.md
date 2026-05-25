@@ -1,4 +1,4 @@
-## Hi there 👋
+<div align="center">Hi there</div>
 
 <!--
 **nanoknyt-stack/nanoknyt-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - [Static Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter%2C%20css%2C%20TypeScript%2C%20python%2C%20C%2B%2B)
 
 -->
+
+
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
