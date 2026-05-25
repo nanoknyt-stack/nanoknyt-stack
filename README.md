@@ -19,10 +19,10 @@
 
 ## 🚀 About Me
 
-- 🎯 **What I build:** Mobile apps, fast REST APIs, and AI-powered features
-- 📐 **How I build it:** Layered architecture, clean state management, readable codebase
-- 🌐 **Freelance focus:** Frontend development — landing pages, website fixes, responsive layouts
-- 🧠 **Currently learning:** Low-level C++ and algorithm optimization
+- **What I build:** Mobile apps, fast REST APIs, and AI-powered features
+- **How I build it:** Layered architecture, clean state management, readable codebase
+- **Freelance focus:** Frontend development — landing pages, website fixes, responsive layouts
+- **Currently learning:** Low-level C++ and algorithm optimization
 
 ---
 
@@ -34,7 +34,7 @@
 
 - **What it does:** Tracks daily habits, analyzes patterns with AI, and gives personalized recommendations to help you stay consistent
 - **Stack:** `Flutter` · `Dart` · `FastAPI` · `Python`
-- **Status:** 🟢 Active development — MVP coming soon
+- **Status:** 🟢 Active development 
 
 ---
 
