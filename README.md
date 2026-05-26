@@ -28,7 +28,7 @@
 
 ## 🏆 Featured Projects
 
-### 🤖 AI Habit Tracker
+### 🤖 [AI Habit Tracker](https://github.com/nanoknyt-stack/protocol-app)
 
 > A smart habit tracking app powered by AI — it doesn't just log your habits, it helps you understand and improve them.
 
