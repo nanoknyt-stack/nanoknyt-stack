@@ -29,11 +29,19 @@
 ## 🏆 Featured Projects
 
 ### 🤖 [AI Habit Tracker](https://github.com/nanoknyt-stack/protocol-app)
-
 > A smart habit tracking app powered by AI — it doesn't just log your habits, it helps you understand and improve them.
 
 - **What it does:** Tracks daily habits, analyzes patterns with AI, and gives personalized recommendations to help you stay consistent
 - **Stack:** `Flutter` · `Dart` · `FastAPI` · `Python`
+- **Status:** 🟢 Active development 
+
+---
+
+### 🔐 [App Blocker](https://github.com/nanoknyt-stack/app-blocker)
+> A session-based digital wellbeing tool with a stellar UI to keep your screen time in orbit.
+
+- **What it does:** Prevents doomscrolling on apps like YouTube and TikTok using a smart per-session timer and a custom system-level Compose overlay. Built with a beautiful dark galaxy aesthetic.
+- **Stack:** `Kotlin` · `Jetpack Compose` · `Android SDK` · `DataStore`
 - **Status:** 🟢 Active development 
 
 ---
