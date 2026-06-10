@@ -46,6 +46,13 @@
 
 ---
 
+### 🌌 [Cosmic Notes](https://github.com/nanoknyt-stack/AppNotes)
+> An ultra-minimalist, offline note-taking and reminder app crafted with a beautiful deep-space aesthetic.
+
+- **What it does:** Provides a distraction-free environment to jot down thoughts and schedule precise offline reminders. Features a smooth cosmic animated background, frosted glassmorphism UI, and a robust trash bin recovery system.
+- **Stack:** `Flutter` · `Dart` · `Provider` · `Local Notifications`
+- **Status:** ✅ Completed
+
 <p align="center">
   <i>Building things that work well and look good.</i>
 </p>
