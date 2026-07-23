@@ -33,7 +33,7 @@
 
 - **What it does:** Tracks daily habits, analyzes patterns with AI, and gives personalized recommendations to help you stay consistent
 - **Stack:** `Flutter` · `Dart` · `FastAPI` · `Python`
-- **Status:** 🟢 Active development 
+- **Status:** ✅ Completed
 
 ---
 
@@ -42,7 +42,7 @@
 
 - **What it does:** Prevents doomscrolling on apps like YouTube and TikTok using a smart per-session timer and a custom system-level Compose overlay. Built with a beautiful dark galaxy aesthetic.
 - **Stack:** `Kotlin` · `Jetpack Compose` · `Android SDK` · `DataStore`
-- **Status:** 🟢 Active development 
+- **Status:** ✅ Completed
 
 ---
 
